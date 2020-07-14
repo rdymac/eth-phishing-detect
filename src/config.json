@@ -660,6 +660,7 @@
     "torque.loans"
   ],
   "blacklist": [
+    "claim.forsage.my.id",
     "tesla3.gifts",
     "musk-gifts.com",
     "muskpromotion.com",
